@@ -4,9 +4,9 @@ Inicia um novo packet com Git na maquina
 
 Definir as configurações de usuario
 
-### git config --local user.name TonDevGit
+### git config --local user.name <mome do usuari>
 
-### git config --local user.email ton.dev.git@gmail.com
+### git config --local user.email <email do usuario>
 
 Abaixar Clonar um projeto do Git
 
